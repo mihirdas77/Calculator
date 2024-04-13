@@ -26,7 +26,7 @@ To get a local copy up and running, follow these steps:
    git clone https://github.com/mihirdas77/Calculator.git
    ```
 
-2. Open `index.html` in your web browser.
+2. Open `calculator.html` in your web browser.
 
 ## Usage
 
