@@ -14,7 +14,7 @@ You can try out the calculator live [here](https://your-demo-link.com).
 
 ## Screenshots
 
-![Calculator Screenshot](/screenshots/calculator.png)
+![Calculator Screenshot](https://i.postimg.cc/76Hc9w15/Screenshot-2024-04-14-020047.png)
 
 ## Getting Started
 
