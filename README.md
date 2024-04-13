@@ -10,7 +10,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 ## Demo
 
-You can try out the calculator live [here](https://your-demo-link.com).
+You can try out the calculator live [Deploy](https://mihir-simplecalculator.netlify.app/).
 
 ## Screenshots
 
